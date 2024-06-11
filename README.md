@@ -1,4 +1,4 @@
-# Boston-House-Price-Prediction
+# Boston House Price Prediction
 The purpose of this project is to predict Boston house prices based on machine-learning practices and find out the factors that influence the hike of Boston house prices based on Exploratory Data Analysis
 
 ## Data Preparation
